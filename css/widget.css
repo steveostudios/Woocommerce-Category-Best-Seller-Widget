@@ -1,0 +1,67 @@
+.woocommerce-category-best-seller {
+  margin-left: 10px !important;
+  padding: 0 !important;
+  border: 1px solid #eaeaea;
+  background: #fff;
+  font-family: 'open sans' !important;
+}
+.woocommerce-category-best-seller h3 {
+  margin-bottom: 0 !important;
+  padding: 11px !important;
+  background: #0b8772;
+  color: #fff !important;
+  font-size: 14px !important;
+}
+.woocommerce-category-best-seller h4 {
+  margin-bottom: 3px;
+  padding: 11px !important;
+  background: #777777;
+  color: #fff !important;
+  font-weight: 600;
+  font-size: 12px !important;
+}
+.woocommerce-category-best-seller h4 a {
+  color: #fff !important;
+  text-decoration: none;
+}
+.woocommerce-category-best-seller ul li {
+  display: block;
+  overflow: hidden;
+  margin: 0;
+  padding: 5px;
+  min-height: 42px;
+  border-bottom: 1px solid #eaeaea;
+}
+.woocommerce-category-best-seller ul li a {
+  display: block;
+}
+.woocommerce-category-best-seller ul li a img {
+  display: inline-block;
+  float: left;
+  margin: 0;
+  padding: 0;
+  width: 72px !important;
+}
+.woocommerce-category-best-seller .summary {
+  display: inline-block;
+  float: left;
+  margin-bottom: 0 !important;
+  width: 66.66%;
+}
+.woocommerce-category-best-seller span.title {
+  display: block;
+  margin: 0 8px;
+  color: #636363;
+  word-wrap: normal;
+  font-weight: 700;
+  font-size: 12px !important;
+  line-height: 14px;
+}
+.woocommerce-category-best-seller span.price {
+  display: block;
+  margin: 0 8px;
+  color: #636363;
+  font-weight: 500;
+  font-size: 12px !important;
+  line-height: 14px;
+}
