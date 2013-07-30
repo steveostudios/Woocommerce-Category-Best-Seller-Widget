@@ -1,4 +1,4 @@
-=== Widget Name ===
+=== Woocommerce Category Best Seller Widget ===
 
 Contributors: steveostudios
 Tags: widget, woocommerce, category, best seller
